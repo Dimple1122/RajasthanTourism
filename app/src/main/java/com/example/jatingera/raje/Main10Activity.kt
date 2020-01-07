@@ -1,4 +1,4 @@
-package com.example.DimpleKharbanda.raje
+package com.example.jatingera.raje
 
 import android.content.Context
 import android.content.SharedPreferences
